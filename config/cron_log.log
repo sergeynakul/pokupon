@@ -1,0 +1,4 @@
+/home/newHomeDir/rails/ruby/pokupon/check.rb:23:in `read': No such file or directory @ rb_sysopen - /home/newHomeDir/status0.txt (Errno::ENOENT)
+	from /home/newHomeDir/rails/ruby/pokupon/check.rb:23:in `block in <main>'
+	from /home/newHomeDir/rails/ruby/pokupon/check.rb:22:in `each'
+	from /home/newHomeDir/rails/ruby/pokupon/check.rb:22:in `<main>'
